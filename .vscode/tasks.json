@@ -6,7 +6,7 @@
             "type": "shell",
             "command": "javac",
             "args": [
-                "--module-path", "lib",
+                "--module-path", "C:/Users/emill_a42o490/Desktop/Repozytorium studia/pp-lab-7/lib",
                 "--add-modules", "javafx.controls,javafx.fxml",
                 "-d", "bin",
                 "src/main/java/Main.java"
